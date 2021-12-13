@@ -1,1 +1,1 @@
-This demo shows 5 different ways to create a GraphQL schema.
+This demo shows 6 different ways to create a GraphQL schema.
